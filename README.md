@@ -1,2 +1,6 @@
-# My-Laravel-Personal-Web-Page
-Laravel Finals Activity
+Laravel Final Activity <br><br>
+
+
+Duplicate .env file, other dot (.) files, and node_modules folder from Laravel. <br>
+execute: composer install <br>
+execute: php artisan serve
